@@ -10,3 +10,7 @@ Small PCB for Raspberry Pi and home automation with [FHEM](http://fhem.de/fhem.h
 - BMP085 barometric pressure sensor
 - TSL2561 digital luminosity / lux / light sensor
 - ISP header
+
+Please refer to:
+- [FHEM](http://fhem.de/fhem.html)
+- [Linux Framebuffer drivers for small TFT LCD display modules](https://github.com/notro/fbtft/wiki)
