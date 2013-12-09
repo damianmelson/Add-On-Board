@@ -3,8 +3,10 @@ Add-On Board
 
 A small PCB for Raspberry Pi and home automation with [FHEM](http://fhem.de/fhem.html).
 
-- CC1101 radio frontend (868MHz) with ATmega644V co-processor
-- DS2482-100 I2C to 1-Wire bridge device with 5V to 3.3V level shifter
+![bottomside](docs/bottom.jpg)![top side](docs/top.jpg)
+
+- CC1101 RF transceiver (868MHz) with ATmega644V co-processor
+- DS2482 I2C to 1-Wire bridge device with 5V to 3.3V level shifter
 - ST7735R based 1.8" TFT Display (128x160)
 - TSOP4838 IR receiver
 - BMP085 barometric pressure sensor
